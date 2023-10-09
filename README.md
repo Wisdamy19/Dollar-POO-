@@ -1,5 +1,5 @@
 # Dollar-POO-
-Exercícios introdutórios em programação orientada a objetos em Java.
+Introductory exercises in object-oriented programming in Java.
 
 Make a program to read the dollar exchange rate, and then an amount in dollars to be bought by 
 person in reais. Inform how many reais the person will pay for the dollars, also considering 
